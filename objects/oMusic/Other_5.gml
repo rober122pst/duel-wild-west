@@ -1,0 +1,1 @@
+audio_sound_gain(bkg_music, 0, 3000);
